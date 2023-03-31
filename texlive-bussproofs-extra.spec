@@ -1,6 +1,6 @@
 Name:		texlive-bussproofs-extra
 Version:	51299
-Release:	1
+Release:	2
 Summary:	Extra commands for bussproofs.sty
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bussproofs-extra

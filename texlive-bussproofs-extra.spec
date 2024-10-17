@@ -3,7 +3,7 @@ Version:	51299
 Release:	2
 Summary:	Extra commands for bussproofs.sty
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bussproofs-extra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bussproofs-extra
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bussproofs-extra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bussproofs-extra.doc.r%{version}.tar.xz
